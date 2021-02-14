@@ -1,0 +1,15 @@
+{
+  "name": "custom-pgn-example",
+  "version": "1.2.0",
+  "description": "Custom Pgn Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "scott@scottbender.net",
+  "license": "ISC",
+  "dependencies": {}
+}
